@@ -1,3 +1,8 @@
+/*
+    Problem 6: Sum Square Difference
+    
+*/
+
 #include<iostream>
 
 int main() {
@@ -13,4 +18,5 @@ int main() {
     square_of_sums *= square_of_sums;
 
     std::cout << square_of_sums - sum_of_squares << std::endl;
+    return 0;
 }
