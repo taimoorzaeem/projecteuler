@@ -1,2 +1,5 @@
 # exclude binaries
 *.out
+
+# exclude test folder
+tests
