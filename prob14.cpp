@@ -2,6 +2,10 @@
     Problem 14: Longest Collatz Sequence
 
 */
+
+
+// A VERY inefficient solution. Rewrite later, probably in haskell.
+
 #include<iostream>
 
 int main() {
